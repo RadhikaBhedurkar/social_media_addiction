@@ -97,5 +97,3 @@ Ages 19–22 show the highest participation and usage.
 
 
 
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
-
