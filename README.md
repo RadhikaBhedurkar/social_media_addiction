@@ -7,7 +7,6 @@ The dataset includes 705 students, capturing habits across major social media pl
 
 📌 Dashboard Preview
 
-📈 Key Insights
 ⭐ Overall Metrics
 Average Daily Social Media Usage: 4.99 hours
 
